@@ -1,0 +1,9 @@
+
+
+[module]
+    [[module.mounts]]
+        source = 'assets'
+        target = 'assets'
+
+[params]
+    name = "withconfigtoml"
