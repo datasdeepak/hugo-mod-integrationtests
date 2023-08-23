@@ -4,6 +4,8 @@
     [[module.mounts]]
         source = 'assets'
         target = 'assets'
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-integrationtests/commonmod"
 
 [params]
     name = "withconfigtoml"
