@@ -1,2 +1,4 @@
 github.com/gohugoio/hugo-mod-integrationtests/commonmod2 v0.0.0-20231020152557-3cf84b0fa159 h1:XRlfR+Aq++Kfm6MUdzOJKsUvpn15iW7hRqqK4qz4q9E=
 github.com/gohugoio/hugo-mod-integrationtests/commonmod2 v0.0.0-20231020152557-3cf84b0fa159/go.mod h1:q/RIWVc90YeLxPaO5nC/aqDmkNvzHe6mx165Ddd76Y8=
+github.com/gohugoio/hugo-mod-integrationtests/commonmod2 v1.0.2 h1:h7YqckvJGk5bG6PIUnBEpsdaspbMS8c3GX82w3eR8EM=
+github.com/gohugoio/hugo-mod-integrationtests/commonmod2 v1.0.2/go.mod h1:q/RIWVc90YeLxPaO5nC/aqDmkNvzHe6mx165Ddd76Y8=
